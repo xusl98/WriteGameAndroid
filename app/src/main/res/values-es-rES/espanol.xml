@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WriteGame</string>
+    <string name="btn_play">JUGAR</string>
+    <string name="input_word_hint">Escribe la palabra aquí</string>
+    <string name="btn_check">COMPROBAR</string>
+    <string name="btn_start">EMPEZAR</string>
+    <string name="your_score">Tu Puntuación</string>
+    <string name="highest_score">Puntuación más alta</string>
+    <string name="record">¡¡Nuevo Record!!</string>
+
+<!--WORDS ARRAY-->
+    <string-array name="car_array">
+        <item>Hola</item>
+        <item>Perro</item>
+        <item>Santander</item>
+        <item>Rocambolesco</item>
+        <item>Ordenador</item>
+        <item>Raton</item>
+        <item>Mesa</item>
+        <item>Despertador</item>
+        <item>Comer</item>
+        <item>Mochila</item>
+        <item>Vaso</item>
+        <item>Tablon</item>
+        <item>Bufanda</item>
+        <item>Baldosa</item>
+        <item>Destornillador</item>
+        <item>Zapato</item><!-- 16 -->
+    </string-array>
+
+</resources>
